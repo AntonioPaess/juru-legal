@@ -1,0 +1,13 @@
+# macOS
+  .DS_Store
+
+  # Editors
+  .vscode/
+  .idea/
+  *.swp
+  *~
+  
+  # Jekyll (in case GitHub Pages auto-builds)
+  _site/
+  .jekyll-cache/
+  .jekyll-metadata
