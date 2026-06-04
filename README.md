@@ -1,3 +1,8 @@
+---
+title: Juru — Legal & Support
+layout: default
+---
+
 # Juru — Legal & Support
 
   Juru is a facial gesture-driven communication app for iPad, designed for people with motor impairments. Distinguished Winner of the Apple Swift
