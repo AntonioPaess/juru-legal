@@ -1,3 +1,8 @@
+---
+title: Support
+layout: default
+---
+
 # Juru — Support
   
   Welcome. This page covers the most common questions about using Juru. If you do not find an answer here, please email **<juru.support@gmail.com>** and we will
