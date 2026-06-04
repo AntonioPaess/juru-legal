@@ -19,7 +19,7 @@
   
   ## Contact
 
-  For privacy or support inquiries, email **<EMAIL_TBD>**.
+  For privacy or support inquiries, email **<juru.support@gmail.com>**.
 
   ---
 
